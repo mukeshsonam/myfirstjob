@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 mukesh is a good boy
+=======
+mukesh kumar sonam
+hi i am here for learning to git
+add data to check fetch concept
+
+this is edit by dev1 ----1time
+>>>>>>> 9e769add09fc340f58e3c0d3b089008e2d4ea852
